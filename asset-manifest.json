@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/visualizer/static/css/main.527640f3.css",
+    "main.js": "/visualizer/static/js/main.9056f931.js",
+    "static/media/nitsuj.svg": "/visualizer/static/media/nitsuj.96e942b3e8e1fe27ffa35d8db9812132.svg",
+    "index.html": "/visualizer/index.html",
+    "main.527640f3.css.map": "/visualizer/static/css/main.527640f3.css.map",
+    "main.9056f931.js.map": "/visualizer/static/js/main.9056f931.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527640f3.css",
+    "static/js/main.9056f931.js"
+  ]
+}
