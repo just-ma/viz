@@ -1,7 +1,7 @@
 {
-  "name": "visualizer",
+  "name": "viz",
   "version": "0.1.0",
-  "homepage": "https://just-ma.github.io/visualizer",
+  "homepage": "https://just-ma.github.io/viz",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.88.2",
